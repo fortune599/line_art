@@ -3,6 +3,6 @@ run: main.py
 
 clean:
 	rm *.pyc
-	rm *~
 	rm *.ppm
 	rm *.png
+	rm *~
